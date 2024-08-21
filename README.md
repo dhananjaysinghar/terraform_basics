@@ -143,7 +143,7 @@ output "output_1" {
 ```
 
 ## Terraform Architecture
-![terraform_plugin_architecture.png](images/terraform_plugin_architecture.png)
+![terraform_plugin_architecture.png](terraform_plugin_architecture.png)
 
 
 ## Use of providers in terraform
