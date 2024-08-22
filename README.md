@@ -190,27 +190,6 @@ resource "github_repository" "terraform-repo-creation-ref_1" {
 
 
 
-Dear Sir,
-
-I hope this email finds you well.
-
-        I wanted to inform you that I have not yet received the service certificate or experience letter from my previous organization. My last working day was on July 23rd, 2024, and so far, I have only received the resignation acceptance letter. The remaining documents, including the service certificate or experience letter, will be provided after the Full and Final settlement, which is expected to take 45-60 days.
-
-Please let me know if you need any additional information.
-
-Thank you for your understanding.
-
-Best regards,
-Dhananjaya Samanta SInghar
-Mob: 9437215211
-
-
-
-
-
-
-
-
 
 
 
