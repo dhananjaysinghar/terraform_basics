@@ -187,6 +187,34 @@ resource "github_repository" "terraform-repo-creation-ref_1" {
 > terraform destroy --target github_repository.terraform-repo-ref_1 --auto-approve
 ```
 
+## Use of Terraform Refresh
+- This will refresh the state file with remote resources
+- To see the state file using cmd `terraform show`
+~~~
+> terraform refresh
+~~~
+
+## How to get a value of output
+~~~
+> terraform output <output_name>
+~~~
+
+## How to get a value of variable in local debugging using command
+~~~
+> terraform console
+  > var.GIT_REPO_1
+~~~
+
+## How to format the code using command
+~~~
+> terraform fmt
+~~~
+
+
+
+
+
+
 
 
 
